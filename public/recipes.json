@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "title": "Telur Dadar Krispi",
+    "category": "telur",
+    "ingredients": [
+      { "name": "Telur", "price": 2000 },
+      { "name": "Tepung Terigu", "price": 1500 },
+      { "name": "Garam", "price": 500 }
+    ],
+    "steps": ["Kocok telur", "Tambahkan tepung & garam", "Goreng hingga krispi"],
+    "rating": 4
+  }
+]
